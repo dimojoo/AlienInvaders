@@ -3,7 +3,7 @@
 # Space Invaders
 # Created by Lee Robinson
 # Edited by Omid Nikjoo for the purpose of altering the game to meet project requirements
-# Original github repo can be found at https://github.com/kearkyle/Alien_Invasion
+# Original github repo can be found at https://github.com/leerob/Space_Invaders
 
 from pygame import *
 import sys
